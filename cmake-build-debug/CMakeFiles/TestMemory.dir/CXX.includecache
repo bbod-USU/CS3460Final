@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bradybodily/Repositories/CS3460FinalReview/Unique Pointer/main.cpp
+unique_ptr.hpp
+/Users/bradybodily/Repositories/CS3460FinalReview/Unique Pointer/unique_ptr.hpp
+iostream
+-
+memory
+-
+
+/Users/bradybodily/Repositories/CS3460FinalReview/Unique Pointer/unique_ptr.hpp
+iostream
+-
+
