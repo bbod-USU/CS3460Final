@@ -1,5 +1,5 @@
 //
-// Created by Brady Bodily on 12/11/19.
+// Created on 12/11/19.
 //
 #pragma once
 #include <iostream>
